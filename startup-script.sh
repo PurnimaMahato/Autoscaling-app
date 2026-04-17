@@ -7,7 +7,7 @@ apt-get update
 apt-get install -y nginx git
 
 # 3. Clone the GitHub Repository
-git clone https://github.com/PurnimaMahato/Autoscalling-app.git app
+git clone https://github.com/PurnimaMahato/Autoscaling-app.git app
 
 # 4. Remove the default NGINX placeholder page
 rm -f /var/www/html/index.nginx-debian.html
